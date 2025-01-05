@@ -49,7 +49,7 @@ Checkout the full blockchain course video [here.](https://www.youtube.com/watch?
 ## Quickstart
 
 ```
-git clone https://github.com/ledgerluminary55/hardhat-smartcontract-lottery-fcc
+git clone https://github.com/hiroshisekiya644/hardhat-smartcontract-lottery-fcc
 cd hardhat-smartcontract-lottery-fcc
 yarn
 ```
